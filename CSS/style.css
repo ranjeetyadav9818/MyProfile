@@ -1,5 +1,7 @@
   body{
-    background-color:#d7fffd;
+    size:100%;
+    background-color:#ececec;
+    background-size: auto;
   }
   hr{
 
